@@ -1,6 +1,6 @@
 # Hi there, I'm Piyush Pandey 👋
 
-🚀 **Python Engineer | Data Science & AI/ML Enthusiast | Mobile & Web Developer**
+🚀 **Python Engineer | Data Science & AI/ML Enthusiast**
 
 I am a passionate developer focused on building **AI-powered, data-driven systems** and **mobile-first applications**. I enjoy converting real-world problems into scalable digital solutions using clean code and modern technologies.
 
