@@ -1,4 +1,4 @@
-# Hi there, I'm Piyush Pandey 👋
+# Hi there, I'm Piyush Pandey. 👋
 
 
 ### AI Engineer | Generative AI | Multi-Agent Systems | Production ML | AWS
